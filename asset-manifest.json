@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/OCProject12-Portfolio/static/css/main.fe927caf.css",
+    "main.js": "/OCProject12-Portfolio/static/js/main.433d4d01.js",
+    "static/js/787.4b24f717.chunk.js": "/OCProject12-Portfolio/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/OCProject12-Portfolio/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "index.html": "/OCProject12-Portfolio/index.html",
+    "main.fe927caf.css.map": "/OCProject12-Portfolio/static/css/main.fe927caf.css.map",
+    "main.433d4d01.js.map": "/OCProject12-Portfolio/static/js/main.433d4d01.js.map",
+    "787.4b24f717.chunk.js.map": "/OCProject12-Portfolio/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.433d4d01.js"
+  ]
+}
